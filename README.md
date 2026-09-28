@@ -17,7 +17,7 @@ The TopOn Meta Audience Network (Facebook) mediation adapter for iOS, distribute
    ```
    https://github.com/toponteam-packages/TPNMediationFacebookAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `6.22.0-2.1`).
+3. Select **Exact Version** and enter the target version (e.g. `62200.2.1`).
 4. Add the `TPNMediationFacebookAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The TopOn Meta Audience Network (Facebook) mediation adapter for iOS, distribute
 dependencies: [
     .package(
         url: "https://github.com/toponteam-packages/TPNMediationFacebookAdapter_SPM.git",
-        exact: "6.22.0-2.1"
+        exact: "62200.2.1"
     )
 ]
 ```
