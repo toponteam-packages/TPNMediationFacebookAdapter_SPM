@@ -35,7 +35,7 @@ dependencies: [
 ## Included dependencies
 
 - [`TPNiOS`](https://github.com/toponteam-packages/TPNiOS_SPM) (>= 6.5.60)
-- [`FBAudienceNetwork`](https://github.com/facebook/facebook-ios-sdk) (pinned to the version certified for this adapter release)
+- [`FBAudienceNetwork`](https://github.com/facebook/FBAudienceNetwork) (pinned to the version certified for this adapter release)
 
 ## More information
 
