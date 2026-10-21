@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "AnyThinkFacebookAdapter",
             url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkFacebookAdapter/6.22.0.2.9/AnyThinkFacebookAdapter-6.22.0.2.9.zip",
-            checksum: "b0504226814884507a26cb68a6a67c2ddd1988b8bd20a316f32799650ee0ab23"
+            checksum: "d51ee8db8ed66962bb58e18c686effff3b00836b50bc72629094d2132edb7fc2"
         ),
         .target(
             name: "TPNMediationFacebookAdapterTarget",
